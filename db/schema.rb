@@ -16,7 +16,7 @@ ActiveRecord::Schema[7.1].define(version: 2024_03_25_181507) do
     t.datetime "updated_at", null: false
     t.string "nickname"
     t.integer "kind"
-    t.integer "level"
+    t.integer "levvel"
   end
 
 end
